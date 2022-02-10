@@ -12,6 +12,4 @@ while True:
     f.write(host +"\n")
     f.close()
 
-    print("1")
-
     time.sleep(5)
